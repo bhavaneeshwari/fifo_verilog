@@ -18,5 +18,6 @@ The data can be taken out or read from FIFO at every posedge of the clock based 
 
 ## elaborated design 
 <img width="1312" height="724" alt="image" src="https://github.com/user-attachments/assets/bd2b937b-9061-4b8c-a379-bb80f6729a87" />
+
 ### output
 <img width="1564" height="381" alt="image" src="https://github.com/user-attachments/assets/a3d72450-3d57-48bd-81bf-0aa43bca5772" />
